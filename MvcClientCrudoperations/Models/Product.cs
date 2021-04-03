@@ -13,4 +13,5 @@ namespace MvcClientCrudoperations.Models
         public int QualityStock { get; set; }
         public string Supplier { get; set; }
     }
+    
 }
